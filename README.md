@@ -18,7 +18,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Instalação de depêndencias:
 
-#npm
 $ npm install
 
 ### Antes de rodar a aplicação, execute o comando abaixo para iniciar o servidor json:
@@ -27,6 +26,5 @@ json-server --port 3005 --watch pessoas.json
 
 
 ### Executar Aplicação
-#npm
 $ npm start
 
